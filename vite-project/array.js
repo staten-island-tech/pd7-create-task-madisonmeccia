@@ -1,4 +1,4 @@
-let wordlist = [
+const wordlist = [
   "AAHED",
   "AALII",
   "AARGH",
