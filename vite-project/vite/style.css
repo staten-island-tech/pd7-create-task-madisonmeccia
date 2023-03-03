@@ -1,0 +1,21 @@
+.row{
+	display:block;
+	width: "100%";
+}
+
+.box{
+	height:25px;
+	width: 15px;
+	margin: 4px;
+	background-color: black;
+	display: inline-block;
+}
+
+.perfect{
+	background-color: greenyellow;
+}
+
+.wrongplace{
+	background-color: yellow;
+}
+
