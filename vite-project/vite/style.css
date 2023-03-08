@@ -11,11 +11,11 @@
 	display: inline-block;
 }
 
-.perfect{
+.box.perfect{
 	background-color: greenyellow;
 }
 
-.wrongplace{
+.box.wrongplace{
 	background-color: yellow;
 }
 
