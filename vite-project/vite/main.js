@@ -33,7 +33,7 @@ document.querySelector("#enterbutton").addEventListener(
     for (
       let i = 0;
       i < 5;
-      i++ //(initial value, condition it will check, what code is always run through, keep ading i until i= or > 5) 0 is first letter of word, 4 is the last
+      i++ //(initial value, condition it will check, what code is always run through, keep ading i until i= or > 5) 0 is first letter of word
     ) {
       if (word[i] !== "." && answer.indexOf(word[i]) > -1) {
         //now we are trying to find a letter that is not an exact match, word[i]>-1 is to amke sure that letter is actually in word.
